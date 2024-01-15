@@ -1,0 +1,1 @@
+{"name":"Local: appenddelete","url":"/Users/dhirajmarathe/Desktop/hackerrank/appenddelete.py","tests":[{"id":1675877034529,"input":"abc\nabc\n7","output":"yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/hackerrank/appenddelete.py","group":"local","local":true}

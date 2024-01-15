@@ -1,0 +1,1 @@
+{"name":"Local: xeniaringroad","url":"/Users/dhirajmarathe/Desktop/codeforces/xeniaringroad.py","tests":[{"id":1679217246559,"input":"4 3\n3 2 3","output":"6"},{"id":1679217253614,"input":"4 3\n2 3 3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/xeniaringroad.py","group":"local","local":true}

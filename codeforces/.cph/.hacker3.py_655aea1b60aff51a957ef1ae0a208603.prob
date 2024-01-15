@@ -1,0 +1,1 @@
+{"name":"Local: hacker3","url":"/Users/dhirajmarathe/Desktop/codeforces/hacker3.py","tests":[{"id":1691162338298,"input":"RRRRWWWW 1","output":"1"},{"id":1691162763524,"input":"RWRRRWWRWW 2","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/hacker3.py","group":"local","local":true}

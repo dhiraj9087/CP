@@ -1,0 +1,1 @@
+{"name":"Local: acc","url":"/Users/dhirajmarathe/Desktop/codechef/acc.py","tests":[{"id":1704897101598,"input":"4\n4 4\n0111\n4 2\n1001\n4 1\n1010\n5 2\n10110","output":"NO\nYES\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/acc.py","group":"local","local":true}

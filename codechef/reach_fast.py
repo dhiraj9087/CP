@@ -1,0 +1,29 @@
+# cook your dish here
+y=int(input())
+for i in range(y):
+    x,y,k=map(int,input().split())
+    if(x<y):
+        a=y-x
+        if(a<=k):
+            print("1")
+        else:
+            b=a//k
+            #c=a-(b*k)
+            if(a%k==0):
+                print(b)
+            else:
+                print(b+1)
+    elif(x>y):
+        a=x-y
+        if(a<=k):
+            print("1")
+        else:
+            b=a//k
+            #c=a-(b*k)
+            if(a%k==0):
+                print(b)
+            else:
+                print(b+1)
+            #print(b+1)
+    else:
+        print("0")

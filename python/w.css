@@ -1,0 +1,24 @@
+/* Wrapper to push footer to the bottom */
+.wrapper {
+    min-height: 100vh;
+    position: relative;
+  }
+  
+  .content {
+    /* Add some bottom padding to push footer away from content */
+    padding-bottom: 80px;
+  }
+  
+  /* Footer styles */
+  .footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 16px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  

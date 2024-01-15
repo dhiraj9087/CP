@@ -1,0 +1,1 @@
+{"name":"Local: gravityflip","url":"/Users/dhirajmarathe/Desktop/codeforces/gravityflip.py","tests":[{"id":1695115285594,"input":"4\n3 2 1 2\n","output":"1 2 2 3 \n"},{"id":1695115292089,"input":"3\n2 3 8\n","output":"2 3 8 \n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/gravityflip.py","group":"local","local":true}

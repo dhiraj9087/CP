@@ -1,0 +1,1 @@
+{"name":"Local: py","url":"/Users/dhirajmarathe/Desktop/codeforces/py.py","tests":[{"id":1695307046749,"input":"6\nabc\nacb\nbac\nbca\ncab\ncba\n","output":"YES\nYES\nYES\nNO\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/py.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: equalizearray","url":"/Users/dhirajmarathe/Desktop/hackerrank/equalizearray.py","tests":[{"id":1676221062458,"input":"5\n3 3 2 1 3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/hackerrank/equalizearray.py","group":"local","local":true}

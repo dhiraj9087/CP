@@ -1,0 +1,1 @@
+{"name":"Local: cell","url":"/Users/dhirajmarathe/Desktop/codeforces/cell.py","tests":[{"id":1701075786146,"input":"3\n1 1 1\n2 3 2\n82 47 59","output":"1 1 1\n0 1 0\n1 0 0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/cell.py","group":"local","local":true}

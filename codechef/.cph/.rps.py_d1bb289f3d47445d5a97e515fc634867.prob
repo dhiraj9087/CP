@@ -1,0 +1,1 @@
+{"name":"Local: rps","url":"/Users/dhirajmarathe/Desktop/codechef/rps.py","tests":[{"id":1703688187995,"input":"3\n1\nR\n2\nPS\n3\nRSP","output":"P\nSR\nPPS"},{"id":1703689089121,"input":"1\n4\nPSRS","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/rps.py","group":"local","local":true}

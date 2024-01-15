@@ -1,0 +1,1 @@
+{"name":"Local: codechefcopy","url":"/Users/dhirajmarathe/Desktop/codechef/codechefcopy.py","tests":[{"id":1693381170781,"input":"3\ncodecook\nodeckooc\nffffffff","output":"keococdo\nodeckooc\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/codechefcopy.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: removereverse","url":"/Users/dhirajmarathe/Desktop/codeforces/removereverse.py","tests":[{"id":1679136836183,"input":"abab","output":"ba"},{"id":1679138694535,"input":"aaaa","output":"a"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/removereverse.py","group":"local","local":true}

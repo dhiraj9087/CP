@@ -1,0 +1,1 @@
+{"name":"Local: primeper","url":"/Users/dhirajmarathe/Desktop/codechef/primeper.py","tests":[{"id":1694619575177,"input":"3\n2\n4\n5","output":"-1\n3 4 1 2\n4 5 1 2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/primeper.py","group":"local","local":true}

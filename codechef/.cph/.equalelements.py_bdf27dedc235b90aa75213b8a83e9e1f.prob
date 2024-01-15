@@ -1,0 +1,1 @@
+{"name":"Local: equalelements","url":"/Users/dhirajmarathe/Desktop/codechef/equalelements.py","tests":[{"id":1678287466174,"input":"3\n3\n1 2 3\n4\n2 2 3 1\n4\n3 1 2 4","output":"2\n2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/equalelements.py","group":"local","local":true}

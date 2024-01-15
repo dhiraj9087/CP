@@ -1,0 +1,1 @@
+{"name":"Local: inversionstring","url":"/Users/dhirajmarathe/Desktop/codeforces/inversionstring.py","tests":[{"id":1677340996879,"input":"1\n5\n10010","output":"Yes\nYes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/inversionstring.py","group":"local","local":true}

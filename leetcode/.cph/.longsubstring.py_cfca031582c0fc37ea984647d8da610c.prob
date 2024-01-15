@@ -1,0 +1,1 @@
+{"name":"Local: longsubstring","url":"/Users/dhirajmarathe/Desktop/codeforces/leetcode/longsubstring.py","tests":[{"id":1677520207258,"input":"abcabcbb","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/leetcode/longsubstring.py","group":"local","local":true}

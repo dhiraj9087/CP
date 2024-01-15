@@ -1,0 +1,1 @@
+{"name":"Local: integer","url":"/Users/dhirajmarathe/Desktop/codeforces/integer.py","tests":[{"id":1688218127331,"input":"\"A man, a plan, a canal: Panama\"","output":"word\nl10n\ni18n\np43s"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/integer.py","group":"local","local":true}

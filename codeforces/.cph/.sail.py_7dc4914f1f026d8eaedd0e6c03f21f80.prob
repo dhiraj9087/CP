@@ -1,0 +1,1 @@
+{"name":"Local: sail","url":"/Users/dhirajmarathe/Desktop/codeforces/sail.py","tests":[{"id":1679762480577,"input":"5 0 0 1 1\nSESNW","output":"4"},{"id":1679762487607,"input":"10 5 3 3 6\nNENSWESNEE","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/sail.py","group":"local","local":true}

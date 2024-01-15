@@ -1,0 +1,1 @@
+{"name":"Local: meltgold","url":"/Users/dhirajmarathe/Desktop/codechef/meltgold.py","tests":[{"id":1680785689386,"input":"3\n3 2\n5 3\n10 5","output":"1\n2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/meltgold.py","group":"local","local":true}

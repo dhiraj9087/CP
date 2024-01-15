@@ -1,0 +1,1 @@
+{"name":"Local: uni","url":"/Users/dhirajmarathe/Desktop/codechef/uni.py","tests":[{"id":1697041229446,"input":"3\n2 1\n00\n2 1\n10\n4 2\n1100","output":"0\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/uni.py","group":"local","local":true}

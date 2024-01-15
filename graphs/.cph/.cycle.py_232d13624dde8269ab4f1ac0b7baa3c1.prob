@@ -1,0 +1,1 @@
+{"name":"Local: cycle","url":"/Users/dhirajmarathe/Desktop/codeforces/graphs/cycle.py","tests":[{"id":1696770078441,"input":"8 6\n1 2\n2 3\n2 4 \n3 5\n6 7\n1 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/graphs/cycle.py","group":"local","local":true}

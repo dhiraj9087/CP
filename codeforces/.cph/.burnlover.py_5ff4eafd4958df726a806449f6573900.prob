@@ -1,0 +1,1 @@
+{"name":"Local: burnlover","url":"/Users/dhirajmarathe/Desktop/codeforces/burnlover.py","tests":[{"id":1682411836174,"input":"4\n4\n5\n6\n179179179","output":"26\n37\n50\n32105178545472401"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/burnlover.py","group":"local","local":true}

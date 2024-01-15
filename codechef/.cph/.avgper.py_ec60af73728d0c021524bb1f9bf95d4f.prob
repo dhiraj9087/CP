@@ -1,0 +1,1 @@
+{"name":"Local: avgper","url":"/Users/dhirajmarathe/Desktop/codechef/avgper.py","tests":[{"id":1686399031871,"input":"3\n4\n3\n5","output":"3 2 1 4\n3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/avgper.py","group":"local","local":true}

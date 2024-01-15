@@ -1,0 +1,1 @@
+{"name":"Local: fense","url":"/Users/dhirajmarathe/Desktop/codechef/fense.py","tests":[{"id":1686481911922,"input":"3\n30\n60\n90","output":"NO\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/fense.py","group":"local","local":true}

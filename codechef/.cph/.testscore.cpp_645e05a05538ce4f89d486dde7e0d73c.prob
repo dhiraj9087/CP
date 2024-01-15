@@ -1,0 +1,1 @@
+{"name":"Local: testscore","url":"/Users/dhirajmarathe/Desktop/codechef/testscore.cpp","tests":[{"id":1666803801213,"input":"5\n1 8 4\n3 6 12\n4 5 0\n10 10 100\n8 5 36","output":""},{"id":1667037446648,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/testscore.cpp","group":"local","local":true}

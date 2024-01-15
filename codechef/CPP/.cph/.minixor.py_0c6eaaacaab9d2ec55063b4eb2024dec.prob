@@ -1,0 +1,1 @@
+{"name":"Local: minixor","url":"/Users/dhirajmarathe/Desktop/codechef/CPP/minixor.py","tests":[{"id":1700663756439,"input":"3\n4\n2 4 3 6\n2\n4 4\n5\n1 3 5 17 9","output":"0\n0\n14"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/CPP/minixor.py","group":"local","local":true}

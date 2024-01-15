@@ -1,0 +1,1 @@
+{"name":"Local: binaryarray","url":"/Users/dhirajmarathe/Desktop/codechef/binaryarray.py","tests":[{"id":1684334641587,"input":"3\n1\n0\n3\n1 1 0\n2\n1 0","output":"1\n0 1 1"},{"id":1684335205344,"input":"1\n2\n1 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/binaryarray.py","group":"local","local":true}

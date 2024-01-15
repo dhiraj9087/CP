@@ -1,0 +1,1 @@
+{"name":"Local: drinks","url":"/Users/dhirajmarathe/Desktop/codeforces/drinks.py","tests":[{"id":1678772252473,"input":"4\n0 25 50 75\n","output":""},{"id":1678772259301,"input":"3\n50 50 100","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/drinks.py","group":"local","local":true}

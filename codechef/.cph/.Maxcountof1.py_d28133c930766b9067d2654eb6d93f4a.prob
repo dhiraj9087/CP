@@ -1,0 +1,1 @@
+{"name":"Local: Maxcountof1","url":"/Users/dhirajmarathe/Desktop/codechef/Maxcountof1.py","tests":[{"id":1680790089960,"input":"3\n4\n0011\n4\n1100\n4\n1010","output":"3\n3\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/Maxcountof1.py","group":"local","local":true}

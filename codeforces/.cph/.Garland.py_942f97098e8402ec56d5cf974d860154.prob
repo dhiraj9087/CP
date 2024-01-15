@@ -1,0 +1,1 @@
+{"name":"Local: Garland","url":"/Users/dhirajmarathe/Desktop/codeforces/Garland.py","tests":[{"id":1679582545373,"input":"3\n9546\n0000\n3313","output":"4\n-1\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/Garland.py","group":"local","local":true}

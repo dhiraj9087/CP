@@ -1,0 +1,1 @@
+{"name":"Local: orper","url":"/Users/dhirajmarathe/Desktop/codechef/orper.py","tests":[{"id":1699454712719,"input":"3\n3\n4\n5","output":"1 3 2\n1 2 4 3\n2 1 5 3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/orper.py","group":"local","local":true}

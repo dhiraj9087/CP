@@ -1,0 +1,1 @@
+{"name":"Local: pdfviewer","url":"/Users/dhirajmarathe/Desktop/hackerrank/pdfviewer.py","tests":[{"id":1675850850382,"input":"1 3 1 3 1 4 1 3 2 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5\nabc","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/hackerrank/pdfviewer.py","group":"local","local":true}

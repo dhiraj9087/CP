@@ -1,0 +1,1 @@
+{"name":"Local: per","url":"/Users/dhirajmarathe/Desktop/codechef/per.py","tests":[{"id":1702481431090,"input":"4\n3 2\n3 1\n4 3\n4 4","output":"-1\n1 2 3\n3 1 4 2\n4 3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/per.py","group":"local","local":true}

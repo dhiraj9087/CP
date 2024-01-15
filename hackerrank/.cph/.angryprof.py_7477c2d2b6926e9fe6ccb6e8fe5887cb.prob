@@ -1,0 +1,1 @@
+{"name":"Local: angryprof","url":"/Users/dhirajmarathe/Desktop/hackerrank/angryprof.py","tests":[{"id":1675854232806,"input":"2\n4 3\n-1 -3 4 2\n4 2\n0 -1 2 1","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/hackerrank/angryprof.py","group":"local","local":true}

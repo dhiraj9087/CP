@@ -1,0 +1,1 @@
+{"name":"Local: subarraydivision","url":"/Users/dhirajmarathe/Desktop/hackerrank/subarraydivision.py","tests":[{"id":1674920997326,"input":"5\n1 2 1 3 2\n3 2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/hackerrank/subarraydivision.py","group":"local","local":true}

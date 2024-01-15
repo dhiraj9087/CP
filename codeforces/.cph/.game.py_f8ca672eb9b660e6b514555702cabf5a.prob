@@ -1,0 +1,1 @@
+{"name":"Local: game","url":"/Users/dhirajmarathe/Desktop/codeforces/game.py","tests":[{"id":1681997991106,"input":"3\n2 2\n1 11\n13 6","output":"0\n6\n-3"},{"id":1681998352372,"input":"1\n13 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/game.py","group":"local","local":true}

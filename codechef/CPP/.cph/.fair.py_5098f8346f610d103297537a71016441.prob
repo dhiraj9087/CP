@@ -1,0 +1,1 @@
+{"name":"Local: fair","url":"/Users/dhirajmarathe/Desktop/codechef/CPP/fair.py","tests":[{"id":1700065459722,"input":"6\n1\n1\n2\n00\n4\n1010\n4\n1100\n6\n010101\n5\n00001","output":"YES\nNO\nYES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/CPP/fair.py","group":"local","local":true}

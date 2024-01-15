@@ -1,0 +1,1 @@
+{"name":"Local: RectangularTiling","url":"/Users/dhirajmarathe/Desktop/codechef/RectangularTiling.py","tests":[{"id":1685546278144,"input":"3\n4 6\n2 5\n3 3","output":"YES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/RectangularTiling.py","group":"local","local":true}

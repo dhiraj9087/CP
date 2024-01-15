@@ -1,0 +1,1 @@
+{"name":"Local: idealpoint","url":"/Users/dhirajmarathe/Desktop/codeforces/idealpoint.py","tests":[{"id":1681738159347,"input":"4\n4 3\n1 3\n7 9\n2 5\n3 6\n2 9\n1 4\n3 7\n1 3\n2 4\n3 5\n1 4\n6 7\n5 5","output":"YES\nNO\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/idealpoint.py","group":"local","local":true}

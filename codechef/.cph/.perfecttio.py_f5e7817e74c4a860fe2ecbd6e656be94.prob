@@ -1,0 +1,1 @@
+{"name":"Local: perfecttio","url":"/Users/dhirajmarathe/Desktop/codechef/perfecttio.py","tests":[{"id":1672244330811,"input":"4\n10 20 30\n23 51 17\n44 21 23\n30 30 30","output":"YES\nNO\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/perfecttio.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: matches","url":"/Users/dhirajmarathe/Desktop/codechef/CPP/matches.py","tests":[{"id":1677069877583,"input":"3\n123 234\n10101 1010\n4 4","output":"13\n10\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/CPP/matches.py","group":"local","local":true}

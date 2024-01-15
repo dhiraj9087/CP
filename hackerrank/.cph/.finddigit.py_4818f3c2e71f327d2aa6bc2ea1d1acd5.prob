@@ -1,0 +1,1 @@
+{"name":"Local: finddigit","url":"/Users/dhirajmarathe/Desktop/hackerrank/finddigit.py","tests":[{"id":1675367389063,"input":"2\n12\n1012","output":"2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/hackerrank/finddigit.py","group":"local","local":true}

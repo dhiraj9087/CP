@@ -1,0 +1,1 @@
+{"name":"Local: stamps","url":"/Users/dhirajmarathe/Desktop/codechef/stamps.py","tests":[{"id":1694616398828,"input":"2\n3\n110\n4\n0001","output":"100\n0001"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/stamps.py","group":"local","local":true}

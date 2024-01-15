@@ -1,0 +1,1 @@
+{"name":"Local: mindist","url":"/Users/dhirajmarathe/Desktop/hackerrank/mindist.py","tests":[{"id":1676221629221,"input":"6               \n7 1 3 4 1 7","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/hackerrank/mindist.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: chefearn","url":"/Users/dhirajmarathe/Desktop/codechef/chefearn.py","tests":[{"id":1680101035003,"input":"3\n1 2 2\n2 3 4\n4 20 30","output":"2\n7\n100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/chefearn.py","group":"local","local":true}

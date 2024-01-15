@@ -1,0 +1,1 @@
+{"name":"Local: chess","url":"/Users/dhirajmarathe/Desktop/codechef/chess.py","tests":[{"id":1681311324665,"input":"4\n1\n4\n2\n6","output":"0\n3\n0\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/chess.py","group":"local","local":true}

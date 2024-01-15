@@ -1,0 +1,1 @@
+{"name":"Local: largesty","url":"/Users/dhirajmarathe/Desktop/codechef/largesty.py","tests":[{"id":1681920341169,"input":"3\n3 5\n1 1 2\n5 10\n4 5 2 3 5\n3 3\n1 1 3","output":"5\n10\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/largesty.py","group":"local","local":true}

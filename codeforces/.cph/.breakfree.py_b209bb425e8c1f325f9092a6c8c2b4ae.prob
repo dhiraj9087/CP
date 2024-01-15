@@ -1,0 +1,1 @@
+{"name":"Local: breakfree","url":"/Users/dhirajmarathe/Desktop/codeforces/breakfree.py","tests":[{"id":1686231672780,"input":"2\n3\n2 1 4\n3\n1 2 3","output":"4\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/breakfree.py","group":"local","local":true}

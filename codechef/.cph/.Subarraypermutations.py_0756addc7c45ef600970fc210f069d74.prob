@@ -1,0 +1,1 @@
+{"name":"Local: Subarraypermutations","url":"/Users/dhirajmarathe/Desktop/codechef/Subarraypermutations.py","tests":[{"id":1684504358748,"input":"4\n1 1\n3 2\n4 1\n5 3","output":"1\n1 3 2 \n-1\n5 3 1 4 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/Subarraypermutations.py","group":"local","local":true}

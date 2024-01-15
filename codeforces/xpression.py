@@ -1,0 +1,15 @@
+a=int(input())
+b=int(input())
+c=int(input())
+maxi=0
+if(a+b*c>maxi):
+    maxi=a+b*c
+if(a*(b+c)>maxi):
+    maxi=a*(b+c)
+if(a*b*c>maxi):
+    maxi=a*b*c
+if((a+b)*c>maxi):
+    maxi=(a+b)*c
+if(a+b+c>maxi):
+    maxi=a+b+c
+print(maxi)

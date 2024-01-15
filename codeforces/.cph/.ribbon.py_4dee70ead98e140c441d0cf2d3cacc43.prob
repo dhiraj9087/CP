@@ -1,0 +1,1 @@
+{"name":"Local: ribbon","url":"/Users/dhirajmarathe/Desktop/codeforces/ribbon.py","tests":[{"id":1700918746115,"input":"4\n4\n1 2 2 1\n5\n1 0 1 0 1\n5\n5 4 3 2 1\n1\n12\n","output":"1\n2\n4\n11\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/ribbon.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: primt","url":"/Users/dhirajmarathe/Desktop/codechef/CPP/primt.py","tests":[{"id":1701926732896,"input":"5\n1 4 2\n5 5 3\n6 8 7\n10 20 2\n13 53 5","output":"First\nSecond\nFirst\nFirst\nSecond"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/CPP/primt.py","group":"local","local":true}

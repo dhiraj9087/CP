@@ -1,0 +1,1 @@
+{"name":"Local: gcdlcm","url":"/Users/dhirajmarathe/Desktop/codechef/gcdlcm.py","tests":[{"id":1697639673151,"input":"3\n4 2 1\n1 5 2\n4 4 10","output":"4\n2\n8"},{"id":1697640908590,"input":"1\n3 7 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/gcdlcm.py","group":"local","local":true}

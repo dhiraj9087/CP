@@ -1,0 +1,1 @@
+{"name":"Local: DividingintoGroups","url":"/Users/dhirajmarathe/Desktop/codechef/DividingintoGroups.py","tests":[{"id":1685549770567,"input":"4\n3 1\n1 1 1\n3 10\n1 2 3\n2 2\n5 6\n5 3\n6 9 4 2 1","output":"3\n0\n5\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/DividingintoGroups.py","group":"local","local":true}

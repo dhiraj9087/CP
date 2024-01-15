@@ -1,0 +1,1 @@
+{"name":"Local: diffrence","url":"/Users/dhirajmarathe/Desktop/codechef/diffrence.py","tests":[{"id":1679499386981,"input":"1\n4","output":"12  10  6   14\n3   8   4   1\n5   15  11  9\n2   7   13  16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/diffrence.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: possibleornot","url":"/Users/dhirajmarathe/Desktop/codechef/possibleornot.py","tests":[{"id":1686753749201,"input":"2\n6 5\n1 7 3 4 2 13\n3 2\n1 3 4","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/possibleornot.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: indivisible","url":"/Users/dhirajmarathe/Desktop/codeforces/indivisible.py","tests":[{"id":1682781424519,"input":"3\n1\n2\n3","output":"1\n1 2\n-1"},{"id":1682782961658,"input":"1\n6\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/indivisible.py","group":"local","local":true}

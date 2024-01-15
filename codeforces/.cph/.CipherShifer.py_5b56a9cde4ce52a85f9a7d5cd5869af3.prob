@@ -1,0 +1,1 @@
+{"name":"Local: CipherShifer","url":"/Users/dhirajmarathe/Desktop/codeforces/CipherShifer.py","tests":[{"id":1686062306009,"input":"3\n8\nabacabac\n5\nqzxcq\n20\nccooddeeffoorrcceess","output":"ac\nq\ncodeforces"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/CipherShifer.py","group":"local","local":true}

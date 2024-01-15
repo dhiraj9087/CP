@@ -1,0 +1,1 @@
+{"name":"Local: monstar2","url":"/Users/dhirajmarathe/Desktop/codeforces/monstar2.py","tests":[{"id":1701270466854,"input":"3\n10\n21\n1000000","output":"3\n-1\n15"},{"id":1701272350579,"input":"1\n16","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/monstar2.py","group":"local","local":true}

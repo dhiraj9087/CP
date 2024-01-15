@@ -1,0 +1,1 @@
+{"name":"Local: breakingrecord","url":"/Users/dhirajmarathe/Desktop/hackerrank/breakingrecord.py","tests":[{"id":1674914353466,"input":"10\n3 4 21 36 10 28 35 5 24 42","output":"4 0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/hackerrank/breakingrecord.py","group":"local","local":true}

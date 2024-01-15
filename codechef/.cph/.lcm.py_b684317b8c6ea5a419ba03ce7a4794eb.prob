@@ -1,0 +1,1 @@
+{"name":"Local: lcm","url":"/Users/dhirajmarathe/Desktop/codechef/lcm.py","tests":[{"id":1698854486441,"input":"3\n5\n1 2 3 4 5\n3\n2 3 4\n4\n1 2 3 5","output":"7\n1\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/lcm.py","group":"local","local":true}

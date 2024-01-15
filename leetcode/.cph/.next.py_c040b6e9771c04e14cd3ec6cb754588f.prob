@@ -1,0 +1,1 @@
+{"name":"Local: next","url":"/Users/dhirajmarathe/Desktop/codeforces/leetcode/next.py","tests":[{"id":1695390673075,"input":"8 5\n10 9 8 7 7 7 5 5\n","output":"6\n"},{"id":1695390737261,"input":"4 2\n0 0 0 0\n","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/leetcode/next.py","group":"local","local":true}

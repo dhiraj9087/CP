@@ -1,0 +1,1 @@
+{"name":"Local: cipher","url":"/Users/dhirajmarathe/Desktop/codechef/cipher.py","tests":[{"id":1689599451014,"input":"3\n5\naaaaa\n5\nabcde\n5\naabcd","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codechef/cipher.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: ComparingStrings","url":"/Users/dhirajmarathe/Desktop/codeforces/ComparingStrings.py","tests":[{"id":1680064419389,"input":"ab\nba","output":"YES"},{"id":1680064428948,"input":"aa\nab","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/ComparingStrings.py","group":"local","local":true}

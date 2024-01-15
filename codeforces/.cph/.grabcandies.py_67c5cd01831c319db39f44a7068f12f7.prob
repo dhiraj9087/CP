@@ -1,0 +1,1 @@
+{"name":"Local: grabcandies","url":"/Users/dhirajmarathe/Desktop/codeforces/grabcandies.py","tests":[{"id":1679238132108,"input":"3\n4\n1 2 3 4\n4\n1 1 1 2\n3\n1 4 3","output":"YES\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/grabcandies.py","group":"local","local":true}

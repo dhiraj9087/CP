@@ -1,0 +1,1 @@
+{"name":"Local: palin","url":"/Users/dhirajmarathe/Desktop/codeforces/leetcode/palin.py","tests":[{"id":1677521824387,"input":"babad","output":""},{"id":1681878317994,"input":"cbbd","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/codeforces/leetcode/palin.py","group":"local","local":true}
