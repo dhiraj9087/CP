@@ -16,23 +16,7 @@ def main():
         ind1+=1
         ind2+=ind1
     print(ind1)
-#     t = int(input())
 
-# for i in range(t):
-#     n1, n2 = list(map(int, input().split()))
-#     val = abs(n1 - n2)
-
-#     if val == 0:
-#         print(0)
-#     else:
-#         sl = int((2 * val)**0.5)
-#         ts = sl * (sl + 1) // 2
-
-#         while ts < val or (ts- val) % 2 != 0:
-#             sl += 1
-#             ts += sl
-
-#         print(sl)
     # a=x+y
     # if a%2==1:
     #     print(a//2 + 1)
