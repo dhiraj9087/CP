@@ -1,0 +1,1 @@
+{"name":"Local: gcd2","url":"/Users/dhirajmarathe/Desktop/CP/codechef/gcd2.py","tests":[{"id":1706106673101,"input":"3\n3 2\n3 3\n4 2","output":"2 3\n1 2 3\n2 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/gcd2.py","group":"local","local":true}

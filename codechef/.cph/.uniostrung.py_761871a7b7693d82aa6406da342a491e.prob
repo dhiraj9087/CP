@@ -1,0 +1,1 @@
+{"name":"Local: uniostrung","url":"/Users/dhirajmarathe/Desktop/CP/codechef/uniostrung.py","tests":[{"id":1706113118639,"input":"3\naa\nab\nabab","output":"3\n2\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/uniostrung.py","group":"local","local":true}
