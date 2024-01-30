@@ -17,7 +17,6 @@ def main():
         arr.append(ans)
         ans+=a
     print(*arr)
-
     # print(math.gcd(2,4))
 for _ in range(int(input())):
    main()
