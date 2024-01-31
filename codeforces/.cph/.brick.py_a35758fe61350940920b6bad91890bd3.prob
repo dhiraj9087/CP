@@ -1,0 +1,1 @@
+{"name":"Local: brick","url":"/Users/dhirajmarathe/Desktop/CP/codeforces/brick.py","tests":[{"id":1706625701032,"input":"5\n2 2\n7 8\n16 9\n3 5\n10000 10000\n","output":"2\n28\n64\n6\n50000000\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codeforces/brick.py","group":"local","local":true}
