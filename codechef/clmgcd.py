@@ -9,6 +9,5 @@ def main():
     x,p=map(int,input().split())
     # a=[]
     # ans=0
-    
 for _ in range(int(input())):
    main()
