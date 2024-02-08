@@ -1,0 +1,1 @@
+{"name":"Local: subar","url":"/Users/dhirajmarathe/Desktop/CP/codechef/subar.py","tests":[{"id":1707316756178,"input":"3\n1\n1\n2\n1 2\n3\n3 1 2","output":"1\n1 1\n1 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/subar.py","group":"local","local":true}
