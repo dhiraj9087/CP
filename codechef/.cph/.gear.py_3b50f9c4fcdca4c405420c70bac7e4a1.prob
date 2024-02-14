@@ -1,0 +1,1 @@
+{"name":"Local: gear","url":"/Users/dhirajmarathe/Desktop/CP/codechef/gear.py","tests":[{"id":1707922251864,"input":"3\n3\nABC\nGBY\n4\nPASS\nFAIL\n5\nSEVEN\nEIGHT","output":"2 0 16\n14 0 14 15\n4 10 21 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/gear.py","group":"local","local":true}

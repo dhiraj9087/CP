@@ -1,0 +1,1 @@
+{"name":"Local: cansort","url":"/Users/dhirajmarathe/Desktop/CP/codechef/cansort.py","tests":[{"id":1707921166340,"input":"3\n2\n3 5\n2\n5 3\n3\n6 6 2","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/cansort.py","group":"local","local":true}
