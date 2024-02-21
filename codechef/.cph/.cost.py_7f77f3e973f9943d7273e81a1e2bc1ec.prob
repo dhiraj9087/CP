@@ -1,0 +1,1 @@
+{"name":"Local: cost","url":"/Users/dhirajmarathe/Desktop/CP/codechef/cost.py","tests":[{"id":1708529177326,"input":"3\n6\n10\n43223","output":"0\n2\n5929"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/cost.py","group":"local","local":true}
