@@ -35,5 +35,4 @@ for i in range(1,n):
             if j!=last:
                 mark=a[i][j]+dp[i-1][j]
                 dp[i][last]=max(dp[i][last],mark)
-        
 print(dp[n-1][3])
