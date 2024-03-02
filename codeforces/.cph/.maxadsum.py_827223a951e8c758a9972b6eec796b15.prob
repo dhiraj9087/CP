@@ -1,0 +1,1 @@
+{"name":"Local: maxadsum","url":"/Users/dhirajmarathe/Desktop/CP/codeforces/maxadsum.py","tests":[{"id":1709130783907,"input":"2\n2\n3 6\n5\n2 2 1 2 2","output":"9\n15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codeforces/maxadsum.py","group":"local","local":true}
