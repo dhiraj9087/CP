@@ -1,0 +1,1 @@
+{"name":"Local: makeitonr","url":"/Users/dhirajmarathe/Desktop/CP/codechef/makeitonr.py","tests":[{"id":1709740162544,"input":"2\n3 9\n1 3","output":"7 3 6 5 4\n3 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/makeitonr.py","group":"local","local":true}

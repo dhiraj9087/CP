@@ -41,6 +41,7 @@ def main():
         if len(s2)==ans:
             flag=False
             break
+    print(s,s2)
     if flag:
         print(-1)
         return

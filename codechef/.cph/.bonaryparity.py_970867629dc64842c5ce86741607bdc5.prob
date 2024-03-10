@@ -1,0 +1,1 @@
+{"name":"Local: bonaryparity","url":"/Users/dhirajmarathe/Desktop/CP/codechef/bonaryparity.py","tests":[{"id":1709735581993,"input":"2\n3\n4","output":"EVEN\nODD"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/bonaryparity.py","group":"local","local":true}
