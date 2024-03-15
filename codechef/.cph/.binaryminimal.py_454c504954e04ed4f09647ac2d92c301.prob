@@ -1,0 +1,1 @@
+{"name":"Local: binaryminimal","url":"/Users/dhirajmarathe/Desktop/CP/codechef/binaryminimal.py","tests":[{"id":1710340515602,"input":"3\n3 1\n000\n2 0\n11\n4 2\n0111","output":"00\n11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/binaryminimal.py","group":"local","local":true}
