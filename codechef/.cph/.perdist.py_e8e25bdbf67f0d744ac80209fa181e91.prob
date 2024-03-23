@@ -1,0 +1,1 @@
+{"name":"Local: perdist","url":"/Users/dhirajmarathe/Desktop/CP/codechef/perdist.py","tests":[{"id":1711103283942,"input":"3\n3\n3 1 2\n2\n1 2\n4\n3 2 1 4","output":"0\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/perdist.py","group":"local","local":true}
