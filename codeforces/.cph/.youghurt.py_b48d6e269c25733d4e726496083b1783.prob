@@ -1,0 +1,1 @@
+{"name":"Local: youghurt","url":"/Users/dhirajmarathe/Desktop/CP/codeforces/youghurt.py","tests":[{"id":1712596159486,"input":"4\n2 5 9\n3 5 9\n3 5 11\n4 5 11","output":"9\n14\n15\n20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codeforces/youghurt.py","group":"local","local":true}
