@@ -1,0 +1,1 @@
+{"name":"Local: joinstate","url":"/Users/dhirajmarathe/Desktop/CP/codechef/joinstate.py","tests":[{"id":1712661950376,"input":"3\n3 2\n3 2 4\n3 5\n3 2 4\n4 5\n3 7 8 2","output":"3\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/joinstate.py","group":"local","local":true}
