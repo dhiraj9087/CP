@@ -1,0 +1,1 @@
+{"name":"Local: alterbin","url":"/Users/dhirajmarathe/Desktop/CP/codechef/alterbin.py","tests":[{"id":1713465843230,"input":"3\n1\n1\n2\n11\n4\n0010","output":"0\n1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/alterbin.py","group":"local","local":true}
