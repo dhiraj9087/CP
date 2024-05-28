@@ -12,8 +12,8 @@ def main():
             continue
         for j in range(n):
             op = a[i]**(j+1)
-            # if op>1000000007:
-            #     break
+            if op>1000000007:
+                break
             if op <= a[j]:
                 ans+=1
     print(ans)
