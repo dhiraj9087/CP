@@ -1,0 +1,1 @@
+{"name":"Local: lexomaxpre","url":"/Users/dhirajmarathe/Desktop/CP/codechef/lexomaxpre.py","tests":[{"id":1716997248384,"input":"3\n3\n1 2 3\n5\n9 9 1 1 4\n1\n1000000000","output":"3 2 0 \n9 9 1 1 0 \n1000000000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/lexomaxpre.py","group":"local","local":true}
