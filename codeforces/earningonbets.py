@@ -3,11 +3,16 @@ import sys
 input=sys.stdin.readline
 def main():
     n=int(input())
-    a=list(map(int,input().split()))
-    low=1
-    high=2*(10**5)
-    while low<=high:
-        mid = (low + high)//2
+    maxi = 0
+    ans = 2
+    for x in range(2, n + 1):
+        k = n // x
+        curr = x * (k * (k + 1) // 2)
+        
+        if curr > maxi:
+            maxi = curr
+            ans = x
+    print(ans)
         
 for _ in range(int(input())):
    main()
