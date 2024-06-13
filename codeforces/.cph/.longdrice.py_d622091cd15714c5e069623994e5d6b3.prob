@@ -1,0 +1,1 @@
+{"name":"Local: longdrice","url":"/Users/dhirajmarathe/Desktop/CP/codeforces/longdrice.py","tests":[{"id":1718204388960,"input":"3\n50 51\n60 80\n55 95","output":"1\n10\n80"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codeforces/longdrice.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: tripleprime","url":"/Users/dhirajmarathe/Desktop/CP/codeforces/tripleprime.py","tests":[{"id":1718206736687,"input":"3\n6\n38\n78","output":"No\nYes\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codeforces/tripleprime.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: distinctsub","url":"/Users/dhirajmarathe/Desktop/CP/codeforces/distinctsub.py","tests":[{"id":1718204653731,"input":"4\n1 1\n3 1\n6 3\n7 2","output":"YES\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codeforces/distinctsub.py","group":"local","local":true}
