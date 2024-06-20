@@ -1,0 +1,1 @@
+{"name":"Local: maxidis","url":"/Users/dhirajmarathe/Desktop/CP/codeforces/maxidis.py","tests":[{"id":1718807597742,"input":"4\n1\n2\n3\n6","output":"1\n1\n1 2\n2 1\n1 2 3\n3 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codeforces/maxidis.py","group":"local","local":true}

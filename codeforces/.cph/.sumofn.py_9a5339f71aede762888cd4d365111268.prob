@@ -1,0 +1,1 @@
+{"name":"Local: sumofn","url":"/Users/dhirajmarathe/Desktop/CP/codeforces/sumofn.py","tests":[{"id":1718811043211,"input":"3\n2\n3\n18","output":"4\n15\n36"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codeforces/sumofn.py","group":"local","local":true}
