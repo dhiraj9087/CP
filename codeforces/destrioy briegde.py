@@ -7,12 +7,12 @@ def main():
     mul=[0]*n
     mul[0]=1
     cal = 0
-    for i in range(n):
-        if mul[i] == 0:
-            continue
-        for j in range(n):
-            if mul[j] == 0:
-                cal += a[i] * a[j]
+    # for i in range(n):
+    #     if mul[i] == 0:
+    #         continue
+    #     for j in range(n):
+    #         if mul[j] == 0:
+    #             cal += a[i] * a[j]
     
     if cal<=c:
         print(1)
