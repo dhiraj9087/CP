@@ -1,0 +1,1 @@
+{"name":"Local: dima","url":"/Users/dhirajmarathe/Desktop/CP/codeforces/dima.py","tests":[{"id":1720613111151,"input":"1\n4 \n4 2 3 4                  \n5 7 8 30 10 20 19 22 50 28 35 40 45","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codeforces/dima.py","group":"local","local":true}

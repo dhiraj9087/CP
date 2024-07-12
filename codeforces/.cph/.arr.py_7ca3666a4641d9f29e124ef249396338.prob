@@ -1,0 +1,1 @@
+{"name":"Local: arr","url":"/Users/dhirajmarathe/Desktop/CP/codeforces/arr.py","tests":[{"id":1720453504840,"input":"3\n3\n6\n7\n","output":"4 22 18\n10 6 15 32 125 54\n23 18 27 36 5 66 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codeforces/arr.py","group":"local","local":true}

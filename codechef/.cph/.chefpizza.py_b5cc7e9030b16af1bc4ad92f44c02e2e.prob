@@ -1,0 +1,1 @@
+{"name":"Local: chefpizza","url":"/Users/dhirajmarathe/Desktop/CP/codechef/chefpizza.py","tests":[{"id":1720622329613,"input":"3\n2\n14\n100000","output":"0\n12\n68928"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/chefpizza.py","group":"local","local":true}
