@@ -1,0 +1,1 @@
+{"name":"Local: onlyplus","url":"/Users/dhirajmarathe/Desktop/CP/codechef/onlyplus.py","tests":[{"id":1720759054112,"input":"2\n2 3 4\n10 1 10\n","output":"100\n600\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/onlyplus.py","group":"local","local":true}
