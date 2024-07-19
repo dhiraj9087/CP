@@ -8,7 +8,7 @@ def powerset(nums):
         ans.append(l)
 
 
-    pass
+    
 
 
 nums = [1,2,3]
