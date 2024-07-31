@@ -1,0 +1,1 @@
+{"name":"Local: makearrayequal","url":"/Users/dhirajmarathe/Desktop/CP/codechef/makearrayequal.py","tests":[{"id":1722436611313,"input":"3\n3\n1 1 1\n2\n1 2\n3\n1 0 0","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/makearrayequal.py","group":"local","local":true}

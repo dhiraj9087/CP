@@ -55,3 +55,4 @@ if __name__ == "__main__":
     ll.prepand(0)
     ll.delete_with_value(4)
     ll.printList()
+    
