@@ -1,0 +1,1 @@
+{"name":"Local: rps2","url":"/Users/dhirajmarathe/Desktop/CP/codechef/rps2.py","tests":[{"id":1722528521340,"input":"3\n5\n12\n1000000000000000000","output":"15\n51\n4999999999999999996"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/rps2.py","group":"local","local":true}
