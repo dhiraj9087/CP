@@ -1,0 +1,1 @@
+{"name":"Local: alternateperm","url":"/Users/dhirajmarathe/Desktop/CP/codechef/alternateperm.py","tests":[{"id":1723373752897,"input":"2\n2\n5","output":"1 2\n1 4 3 5 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/alternateperm.py","group":"local","local":true}
