@@ -1,0 +1,1 @@
+{"name":"Local: Codechef","url":"/Users/dhirajmarathe/Desktop/CP/Java/Codechef.java","tests":[{"id":1723785215555,"input":"3\n5 3\n1 15 5 7 2\n4 2\n4 7 9 12\n6 6\n1 2 3 4 5 6","output":"38\n21\n35"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/Java/Codechef.java","group":"local","local":true}
