@@ -3,16 +3,30 @@ import sys
 input=sys.stdin.readline
 def main():
     n=int(input())
-    a=[i for i in range(1,n+1)]
-    mid=(n+1)//2
-    h1=a[:mid]
-    h2=a[mid:]
-    ans=[]
-    for i in range(len(h2)):
-        ans.append(h1[i])
-        ans.append(h2[i])
-    if len(h1)>len(h2):
-        ans.append(h1[-1])
-    print(*ans)
+    a=list(map(int,input().split()))
+    m=int(input())
+    for k in range(m):
+        s=input().strip()
+        if len(s)!=n:
+            print("NO")
+            continue
+        d1={}
+        d2={}
+        ans = "YES"
+        for i in range(n):
+            char = s[i]
+            num=a[i]
+            if char in d1 and d1[char]!=num:
+                ans="NO"
+                break
+            if num in d2 and d2[num]!=char:
+                ans = "NO"
+                break
+            d1[char]=num
+            d2[num]=char
+        print(ans)
+
+             
+
 for _ in range(int(input())):
    main()

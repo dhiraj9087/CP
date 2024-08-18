@@ -1,5 +1,4 @@
 import java.util.*;
-import java.lang.*;
 import java.io.*;
 
 class Codechef{
@@ -18,6 +17,8 @@ class Codechef{
         }
         return isprime;
     }
+
+    
     
     static void main() throws IOException{
         int n = sc.nextInt();
