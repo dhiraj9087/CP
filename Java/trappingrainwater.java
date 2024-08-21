@@ -1,5 +1,5 @@
 public class trappingrainwater {
-        public int trap(int[] arr) {
+    public int trap(int[] arr) {
             int n = arr.length;
             int l=0;
             int r=n-1;

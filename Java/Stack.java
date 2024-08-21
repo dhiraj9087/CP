@@ -31,6 +31,16 @@ public class Stack<T> {
         }
         return (T) elements[size];
 
+    }
+
+    public void clear() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'clear'");
+    }
+
+    public int size() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'size'");
     } 
     
 }
