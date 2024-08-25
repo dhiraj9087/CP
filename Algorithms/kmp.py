@@ -26,5 +26,9 @@ def kmp_search(text, pattern):
 
 # Example usage
 text = "ABABDABACDABABCABAB"
-pattern = "ABABCABAB"
-print(kmp_search(text, pattern))  # Output: 10
+# pattern = "ABABCABAB"
+pattern = "aacecaaa"
+s=pattern + "#" + pattern[::-1]
+
+print(kmp_search(text, s))  # Output: 10
+

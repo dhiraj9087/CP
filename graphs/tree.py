@@ -1,4 +1,3 @@
-
 n = 10**5 + 10
 g = [[] for _ in range(n)]
 # vis=[False]*(n)

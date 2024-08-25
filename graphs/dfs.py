@@ -1,28 +1,16 @@
-n = 10**5 + 10
-g = [[] for _ in range(n)]
-vis=[False]*(n)
-def dfs(ind):
-
-    vis[ind]=True
-    for child in g[ind]:
-
-        if not vis[child]:
-            continue
-
-        dfs(child)
+def dfs(node,vis,adj,ans):
+    vis[node] = 1
+    ans.append(node)
+    for nei in adj[node]:
+        if not vis[nei]:
+            dfs(nei,vis,adj,ans)
 
 
-def main():
-    global n, m
-    n, m = map(int, input().split())
-    
-    for i in range(m):
-        v1, v2 = map(int, input().split())
-        g[v1].append(v2)
-        g[v2].append(v1)
 
-    # print(g)
-    for vertex in range(1, n + 1):
-        if not vis[vertex]:
-            dfs(vertex)
-main()
+adj = [[],[2,3],[1,5,6],[1,4,7],[3,8],[2],[2],[3,8],[4,7]]
+vis = [0]*(10)
+vis[1] = 1
+ans=[]
+ans.append(1)
+dfs(1,vis,adj,ans)
+print(ans)
