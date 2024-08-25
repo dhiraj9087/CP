@@ -4,7 +4,7 @@ public class negativeind {
         int n=arr.length;
         List<Integer> ans = new ArrayList<>();
         int ind = 0;
-        
+
 
 
 
