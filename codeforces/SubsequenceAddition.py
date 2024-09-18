@@ -18,6 +18,7 @@ for i in range((int(input()))):
             print("NO")
         else:
             print("YES")
+            
 
     # pre_sum=[]
     # s=0

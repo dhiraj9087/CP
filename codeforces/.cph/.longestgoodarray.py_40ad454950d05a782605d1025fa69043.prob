@@ -1,0 +1,1 @@
+{"name":"Local: longestgoodarray","url":"/Users/dhirajmarathe/Desktop/CP/codeforces/longestgoodarray.py","tests":[{"id":1726639874151,"input":"5\n1 2\n1 5\n2 2\n10 20\n1 1000000000\n","output":"2\n3\n1\n5\n44721\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codeforces/longestgoodarray.py","group":"local","local":true}

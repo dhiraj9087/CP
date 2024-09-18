@@ -18,7 +18,7 @@ def main():
         else:
             b = bisect.bisect_left(t,x)
             print((t[b]-t[b-1])//2)
-            
+                 
         
 for _ in range(int(input())):
    main()
