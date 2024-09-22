@@ -13,6 +13,16 @@
 # t = sum(map(int, sys.stdin.readline().split()))
 # print(t)
 # print(a-1 if t % a else a)
-n=int(input())
-a=sum(list(map(int,input().split()))) 
-print(n-1 if a%n else n)
+import math
+import sys
+input=sys.stdin.readline
+def main():
+    n=int(input())
+    a=list(map(int,input().split()))
+    ans=a[-1]
+    ele=a[-2]
+    for i in range(n-3,-1,-1):
+        ele -= a[i]
+    print(ans-ele)
+for _ in range(int(input())):
+   main()

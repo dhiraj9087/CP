@@ -9,5 +9,6 @@ def main():
         print(a[n//2])
         return
     print(max(a[n//2-1],a[n//2]))
+    
 for _ in range(int(input())):
    main()
