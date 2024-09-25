@@ -1,4 +1,5 @@
 from collections import defaultdict
+import itertools
 def fun(nums,res,ans,n,d):
     if len(res)==n:
         ans.append(res[:])
@@ -14,4 +15,7 @@ def fun(nums,res,ans,n,d):
 nums=[1,2,3]
 res,ans,d=[],[],defaultdict(bool)
 fun(nums,res,ans,len(nums),d)
-print(ans)
+# print(ans)
+# a=itertools.permutations(nums)
+# for i in a:
+#     print(i)

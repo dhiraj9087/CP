@@ -1,6 +1,4 @@
 from collections import deque
-
-
 adj = [[],[],[3],[1],[0,1],[0,2]]
 
 indegree =[0]*(len(adj))

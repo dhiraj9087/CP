@@ -12,4 +12,4 @@ nums = [2,3,6,7]
 target = 7
 res,ans=[],[]
 fun(0,ans,target,nums,res)
-print(ans) 
+print(ans)
