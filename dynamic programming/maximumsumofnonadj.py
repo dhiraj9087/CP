@@ -17,9 +17,10 @@ dp=[-1]*(n+1)
 dp[0]=a[0]
 neg=0
 for i in range(1,n):
-    take = a[i]
     if i>1:
-        take+=dp[i-2]
+        take = a[i]+dp[i-2]
+    else:
+        take = a[i]
     nottake=dp[i-1]
     dp[i]=max(take,nottake)
 print(dp[n-1])

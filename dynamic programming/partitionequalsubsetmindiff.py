@@ -18,5 +18,5 @@ for i in range(n):
     for j in range(k+1):
         if dp[i][j]:
             print(j)
-print(dp)
+# print(dp)
 print(dp[n-1][j])

@@ -31,30 +31,3 @@
 # #     return dp[ind][s]
 
 # # print(fun(n-1,5))
-
-def optimize_power(a, b, c):
-    x = -(-a // 100)  # Ceiling division
-    y = 0
-    min_power = b * x
-
-    while x > 0:
-        new_x = x - 1
-        new_y = -(-max(0, a - 100 * new_x) // 4)  # Ceiling division
-        new_power = b * new_x + c * new_y
-
-        if new_power < min_power:
-            x, y = new_x, new_y
-            min_power = new_power
-        else:
-            break
-
-    return x, y, min_power
-
-# Example usage:
-a = 1000  # number of customers
-b = 500   # power consumption of engine m
-c = 30    # power consumption of engine n
-
-x, y, min_power = optimize_power(a, b, c)
-print(f"Use {x} m engines and {y} n engines")
-print(f"Minimum power consumption: {min_power}")
