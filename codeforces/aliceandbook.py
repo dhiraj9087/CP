@@ -4,7 +4,6 @@ input=sys.stdin.readline
 def main():
     n=int(input())
     a=list(map(int,input().split()))
-    ans = f(a)
-    print(ans)
+    print(max(a[:n-1])+a[n-1])
 for _ in range(int(input())):
    main()
