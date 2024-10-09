@@ -31,4 +31,4 @@ def merge_sort(arr):
 
 # Example usage
 arr = [38, 27, 43, 3, 9, 82, 10]
-print(merge_sort(arr))  # Output: [3, 9, 10, 27, 38, 43, 82]
+print(merge_sort(arr))  # Output: [3, 9, 10, 27, 38, 43, 82]a
