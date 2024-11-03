@@ -65,6 +65,7 @@ def sieve_of_eratosthenes(limit):
     return is_prime
 
 def printPrimeFactors(n):
+    
     if n <= 1:
         return
     while n % 2 == 0:
