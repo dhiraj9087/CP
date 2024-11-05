@@ -1,0 +1,1 @@
+{"name":"Local: bobstring","url":"/Users/dhirajmarathe/Desktop/CP/codeforces/bobstring.py","tests":[{"id":1730734159388,"input":"2\n5 3\n11011\n4 4\n0011","output":"5\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codeforces/bobstring.py","group":"local","local":true}
