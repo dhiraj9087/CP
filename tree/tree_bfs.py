@@ -8,14 +8,14 @@ from collections import deque
 from typing import List, Optional
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        ans=[]
+        ans = []
+        level = []
         if not root:
             return ans
         dq = deque()
         dq.append(root)
         while dq:
             size = len(dq)
-            level =[]
             for i in range(size):
                 node = dq.popleft()
                 level.append(node.val)
