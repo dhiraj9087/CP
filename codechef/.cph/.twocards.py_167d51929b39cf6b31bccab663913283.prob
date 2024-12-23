@@ -1,0 +1,1 @@
+{"name":"Local: twocards","url":"/Users/dhirajmarathe/Desktop/CP/codechef/twocards.py","tests":[{"id":1732180974828,"input":"4\n2\n1 3\n3 4\n2\n1 3\n3 1\n3\n3 4 5\n6 6 6\n4\n4 3 1 5\n6 5 7 2","output":"Yes\nNo\nNo\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/twocards.py","group":"local","local":true}

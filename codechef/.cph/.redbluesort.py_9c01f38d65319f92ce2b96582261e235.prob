@@ -1,0 +1,1 @@
+{"name":"Local: redbluesort","url":"/Users/dhirajmarathe/Desktop/CP/codechef/redbluesort.py","tests":[{"id":1732192879486,"input":"3\n2\n1 2\n2\n2 1\n5\n3 1 4 2 5","output":"2\n0\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dhirajmarathe/Desktop/CP/codechef/redbluesort.py","group":"local","local":true}

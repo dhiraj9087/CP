@@ -1,41 +1,36 @@
-# for i in range((int(input()))):
-#     n=int(input())
-#     a=list(map(int,input().split()))
-#     flag=0
-#     for i in range(n):
-#         if i+1 in a[i::]:
-#             flag=1
-#             # print(i+1)
-#     if flag==1:
-#         print("YES")
-#     else:
-#         print("NO")
-def GasStation(strArr): 
-    L = int(strArr[0])
+# s=input()
+# a=[]
+# n=len(s)
+# d = {str(i-96):chr(i) for i in range(97, 123)}
+# # print(d)
+# for i in range(n-1):
+#     num=int(s[i:i+2])
+#     if num<=26:
+#         a.append([num,i,i+1])
+# print(a,ord('a'))
+# ans1=''
+# for i in s:
+#     ans1+=d[i]
+# print(ans1)
+# ans=[]
+# for i in range(len(a)):
+#     x,y,z=a[i]
     
-    # Split each gas:cost pair and store them as tuples of integers
-    strArr[1:] = [x.split(":") for x in strArr[1:]]
-    
-    # Create a dictionary where each station's gas difference and next station are stored
-    ht = {i: (int(strArr[i][0]) - int(strArr[i][1]), i + 1) for i in range(1, L)}
-    print(ht)
-    # Ensure the last station loops back to the first station
-    ht[L] = (int(strArr[L][0]) - int(strArr[L][1]), 1)
-    
-    # Try starting from each station and check if the car can complete the loop
-    for station in range(1, L + 1):
-        current = station
-        gas = 0
-        for j in range(L):
-            gas += ht[current][0]
-            if gas < 0:
-                break
-            current = ht[current][1]
-        else:
-            return str(station)
-    
-    return "impossible"
+#     ele=""
+#     for j in range(0,y+1):
+#         if j>0:
+#             ele+=d[str(j)]
+#     ele+=d[str(x)]
+#     for j in range(z+1,n):
+#         if j>0:
+#             ele+=d[str(j)]
 
-# Example input without extra list characters
-input_data = ["4", "3:1", "2:2", "1:2", "0:1"]
-print(GasStation(input_data))
+#     ans.append(ele)
+# print(ans)
+res=1
+a=1
+for i in range(2):
+    res=res*4
+    a=(a*4)%10
+    print(res,a)
+print(5**5)
